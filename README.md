@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Authors
 > - **[Alan Demol](https://github.com/alandemol2022)**
-> - **[Alen Claridad]()**
+> - **[Allen Claridad]()**
 > - **[Darryl Kaye Abella Sanga](https://github.com/AkosiDK)**
 > - **[David Quebengco](https://github.com/DavidQuebengco)**
 > - **[Jason Lerit](https://github.com/jasonlerit)**
