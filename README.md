@@ -13,7 +13,7 @@
 > - **[Allen Claridad](https://github.com/Lemuelyy)**
 > - **[Darryl Kaye Abella Sanga](https://github.com/AkosiDK)**
 > - **[David Quebengco](https://github.com/DavidQuebengco)**
-> - **[Jason Lerit](https://github.com/jasonlerit)**
+> - **[wt404](https://github.com/wt404)**
 
 ---
 
